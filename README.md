@@ -1,1 +1,1 @@
-# Equal Experts DevOps Assignment
+# DevOps Assignment
